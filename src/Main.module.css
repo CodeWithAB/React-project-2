@@ -1,0 +1,78 @@
+.card p{
+    font-size: 14px;
+    font-weight: 600;
+    margin-left: 8px;
+}
+.choose span{
+  
+    padding: 6px 14px;
+    width: auto;
+    color: #0084ff;
+    border-radius: 15px;
+    border: 1px solid #0084ff;
+    margin: 5px;
+    cursor: pointer;
+    display: inline-block;
+}
+.choose span:hover{
+    color: white;
+    background-color: #0084ff;
+}
+.Main{
+    margin-left: 55px;
+    font-size: 16px;
+    padding-top: 16px;
+}
+.card h2{
+    color: #000;
+    font-weight: 600;
+}
+/* .split{
+    /* display: inline-block; */
+    /* display: flex; */
+     /* width: 45%; */
+/* }  */
+.card{
+width: 32%;
+display:inline-block;
+/* height: 176px; */
+/* width: 100%; */
+margin-bottom: 28px;
+margin-left: 12px;
+margin-top: 42px;
+border: 4px;
+background-color: #fff;
+}
+.card img{
+    width: 100%;
+    height: 100%;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+} 
+.card h2{
+    font-size: 17px;
+    font-weight: 600;
+    padding: 5px;
+}
+.card i{
+    color:#0096ff;
+    font-weight: 500;
+    font-size: 14px;
+    padding: 5px;
+}
+.card span{
+    color: rgba(0,0,0,0.7);
+    font-size: 14px;
+    font-weight: 300px;
+    /* padding-: 55px; */
+}
+.card p{
+    font-size: 14px;
+    font-weight: 400px;
+    line-height: 1.43;
+    color:  rgba(0,0,0,.6);
+    margin: 4px;
+    padding: 10px 24px;
+    margin-right: 10px;
+    text-align: justify;
+}

@@ -1,0 +1,13 @@
+.Footer{
+    background-color: #172146;
+    padding: 80px 16%;
+    color:  rgba(255, 255, 255, 0.5); 
+}
+.Footer section h5{
+    color: rgb(239, 239, 239);
+}
+.Footer section{
+    display: inline-table;
+    /* margin: 30px; */
+    padding: 25px;
+}
