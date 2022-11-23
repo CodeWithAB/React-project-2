@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/React-project-2/static/css/main.fe0db963.css",
+    "main.js": "/React-project-2/static/js/main.957bde0b.js",
+    "static/media/what_is_isa_blog_1.png": "/React-project-2/static/media/what_is_isa_blog_1.54ca34bb51fc64d03f5b.png",
+    "static/media/6.png": "/React-project-2/static/media/6.678339a44370db9beeb9.png",
+    "static/media/automation-testing-an-overview-2.png": "/React-project-2/static/media/automation-testing-an-overview-2.06cec49b5a7d53c05b76.png",
+    "static/media/4.png": "/React-project-2/static/media/4.1b513403d8014fd6d790.png",
+    "static/media/learn_machine_learning_courses_online.png": "/React-project-2/static/media/learn_machine_learning_courses_online.8efc34744a2d2dec466f.png",
+    "static/media/3.png": "/React-project-2/static/media/3.a1b7d3e1aa77351f7417.png",
+    "index.html": "/React-project-2/index.html",
+    "main.fe0db963.css.map": "/React-project-2/static/css/main.fe0db963.css.map",
+    "main.957bde0b.js.map": "/React-project-2/static/js/main.957bde0b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fe0db963.css",
+    "static/js/main.957bde0b.js"
+  ]
+}
